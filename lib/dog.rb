@@ -13,7 +13,7 @@ class Dog
 
   end
 
-  def.self.drop_table
+  def self.drop_table
 
   end
 
